@@ -1,3 +1,5 @@
+> # Note: The main repo for the competition is available [here!](https://github.com/Ttiki/demeter_vision)
+
 # Gemini [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
 
 Gemini is a modern LaTeX [beamerposter] theme.
